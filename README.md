@@ -120,6 +120,5 @@ Este projeto foi desenvolvido para:
 
 ## 👩‍💻 Autora
 
-Simone Raeder
 
 **Simone Raeder**
